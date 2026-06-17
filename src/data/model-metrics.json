@@ -1,0 +1,72 @@
+{
+  "metrics": {
+    "roc_auc": 0.6043224075138968,
+    "average_precision": 0.43475166870838466,
+    "confusion_matrix": [
+      [
+        131,
+        10
+      ],
+      [
+        66,
+        8
+      ]
+    ],
+    "row_counts": {
+      "train": 701,
+      "validation": 216,
+      "test": 215
+    },
+    "week_ranges": {
+      "train": [
+        "2023-11-09",
+        "2024-02-01"
+      ],
+      "validation": [
+        "2024-02-08",
+        "2024-02-29"
+      ],
+      "test": [
+        "2024-03-07",
+        "2024-03-28"
+      ]
+    }
+  },
+  "featureImportance": [
+    {
+      "feature": "Traffic incidents this week",
+      "importance": 403.85667967796326,
+      "rawFeature": "event_count"
+    },
+    {
+      "feature": "Violation trend versus prior three weeks",
+      "importance": 381.25576090812683,
+      "rawFeature": "pct_change_violations"
+    },
+    {
+      "feature": "Weekly parking violations",
+      "importance": 340.66638827323914,
+      "rawFeature": "violation_count"
+    },
+    {
+      "feature": "Four-week average of obstruction violations",
+      "importance": 284.9710409641266,
+      "rawFeature": "rolling_4wk_high_obstruction"
+    },
+    {
+      "feature": "Distinct vehicle types involved",
+      "importance": 150.52675938606262,
+      "rawFeature": "distinct_vehicle_types"
+    },
+    {
+      "feature": "Main-road and footpath parking violations",
+      "importance": 127.47711086273193,
+      "rawFeature": "high_obstruction_count"
+    },
+    {
+      "feature": "Congestion incidents this week",
+      "importance": 0.0,
+      "rawFeature": "congestion_count"
+    }
+  ]
+}

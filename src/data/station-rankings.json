@@ -1,0 +1,488 @@
+[
+  {
+    "policeStation": "Jayanagara",
+    "rank": 1,
+    "priorityScore": 89.63,
+    "violationDensityScore": 77.78,
+    "closureRiskScore": 100.0,
+    "trendScore": 92.59,
+    "violationCountLastWeek": 304
+  },
+  {
+    "policeStation": "Sadashivanagar",
+    "rank": 2,
+    "priorityScore": 87.04,
+    "violationDensityScore": 72.22,
+    "closureRiskScore": 98.15,
+    "trendScore": 94.44,
+    "violationCountLastWeek": 215
+  },
+  {
+    "policeStation": "Kodigehalli",
+    "rank": 3,
+    "priorityScore": 81.85,
+    "violationDensityScore": 92.59,
+    "closureRiskScore": 83.33,
+    "trendScore": 57.41,
+    "violationCountLastWeek": 622
+  },
+  {
+    "policeStation": "Malleshwaram",
+    "rank": 4,
+    "priorityScore": 80.0,
+    "violationDensityScore": 96.3,
+    "closureRiskScore": 65.74,
+    "trendScore": 75.93,
+    "violationCountLastWeek": 1399
+  },
+  {
+    "policeStation": "Rajajinagar",
+    "rank": 5,
+    "priorityScore": 79.26,
+    "violationDensityScore": 90.74,
+    "closureRiskScore": 65.74,
+    "trendScore": 83.33,
+    "violationCountLastWeek": 609
+  },
+  {
+    "policeStation": "Halasuru Gate",
+    "rank": 6,
+    "priorityScore": 78.52,
+    "violationDensityScore": 75.93,
+    "closureRiskScore": 83.33,
+    "trendScore": 74.07,
+    "violationCountLastWeek": 301
+  },
+  {
+    "policeStation": "Wilson Garden",
+    "rank": 7,
+    "priorityScore": 77.78,
+    "violationDensityScore": 79.63,
+    "closureRiskScore": 70.37,
+    "trendScore": 88.89,
+    "violationCountLastWeek": 343
+  },
+  {
+    "policeStation": "HSR Layout",
+    "rank": 8,
+    "priorityScore": 76.3,
+    "violationDensityScore": 63.89,
+    "closureRiskScore": 90.74,
+    "trendScore": 72.22,
+    "violationCountLastWeek": 187
+  },
+  {
+    "policeStation": "Basavanagudi",
+    "rank": 9,
+    "priorityScore": 73.33,
+    "violationDensityScore": 83.33,
+    "closureRiskScore": 51.85,
+    "trendScore": 96.3,
+    "violationCountLastWeek": 398
+  },
+  {
+    "policeStation": "Mahadevapura",
+    "rank": 10,
+    "priorityScore": 72.96,
+    "violationDensityScore": 81.48,
+    "closureRiskScore": 74.07,
+    "trendScore": 53.7,
+    "violationCountLastWeek": 345
+  },
+  {
+    "policeStation": "HAL Old Airport",
+    "rank": 11,
+    "priorityScore": 72.59,
+    "violationDensityScore": 88.89,
+    "closureRiskScore": 87.96,
+    "trendScore": 9.26,
+    "violationCountLastWeek": 504
+  },
+  {
+    "policeStation": "Shivajinagar",
+    "rank": 12,
+    "priorityScore": 71.48,
+    "violationDensityScore": 100.0,
+    "closureRiskScore": 38.89,
+    "trendScore": 79.63,
+    "violationCountLastWeek": 1850
+  },
+  {
+    "policeStation": "Upparpet",
+    "rank": 13,
+    "priorityScore": 68.89,
+    "violationDensityScore": 98.15,
+    "closureRiskScore": 40.74,
+    "trendScore": 66.67,
+    "violationCountLastWeek": 1621
+  },
+  {
+    "policeStation": "Cubbon Park",
+    "rank": 14,
+    "priorityScore": 66.3,
+    "violationDensityScore": 50.0,
+    "closureRiskScore": 92.59,
+    "trendScore": 46.3,
+    "violationCountLastWeek": 120
+  },
+  {
+    "policeStation": "Jalahalli",
+    "rank": 15,
+    "priorityScore": 63.7,
+    "violationDensityScore": 18.52,
+    "closureRiskScore": 95.37,
+    "trendScore": 90.74,
+    "violationCountLastWeek": 51
+  },
+  {
+    "policeStation": "Banaswadi",
+    "rank": 16,
+    "priorityScore": 60.0,
+    "violationDensityScore": 68.52,
+    "closureRiskScore": 61.11,
+    "trendScore": 40.74,
+    "violationCountLastWeek": 206
+  },
+  {
+    "policeStation": "Whitefield",
+    "rank": 17,
+    "priorityScore": 60.0,
+    "violationDensityScore": 40.74,
+    "closureRiskScore": 87.96,
+    "trendScore": 42.59,
+    "violationCountLastWeek": 105
+  },
+  {
+    "policeStation": "Vijayanagara",
+    "rank": 18,
+    "priorityScore": 59.63,
+    "violationDensityScore": 87.04,
+    "closureRiskScore": 44.44,
+    "trendScore": 35.19,
+    "violationCountLastWeek": 435
+  },
+  {
+    "policeStation": "No Police Station",
+    "rank": 19,
+    "priorityScore": 59.26,
+    "violationDensityScore": 22.22,
+    "closureRiskScore": 75.93,
+    "trendScore": 100.0,
+    "violationCountLastWeek": 54
+  },
+  {
+    "policeStation": "Chamarajpet",
+    "rank": 20,
+    "priorityScore": 58.52,
+    "violationDensityScore": 53.7,
+    "closureRiskScore": 79.63,
+    "trendScore": 25.93,
+    "violationCountLastWeek": 139
+  },
+  {
+    "policeStation": "Byatarayanapura",
+    "rank": 21,
+    "priorityScore": 56.67,
+    "violationDensityScore": 53.7,
+    "closureRiskScore": 68.52,
+    "trendScore": 38.89,
+    "violationCountLastWeek": 139
+  },
+  {
+    "policeStation": "Yelahanka",
+    "rank": 22,
+    "priorityScore": 55.19,
+    "violationDensityScore": 27.78,
+    "closureRiskScore": 95.37,
+    "trendScore": 29.63,
+    "violationCountLastWeek": 70
+  },
+  {
+    "policeStation": "K.R. Pura",
+    "rank": 23,
+    "priorityScore": 54.44,
+    "violationDensityScore": 63.89,
+    "closureRiskScore": 61.11,
+    "trendScore": 22.22,
+    "violationCountLastWeek": 187
+  },
+  {
+    "policeStation": "Magadi Road",
+    "rank": 24,
+    "priorityScore": 53.7,
+    "violationDensityScore": 85.19,
+    "closureRiskScore": 33.33,
+    "trendScore": 31.48,
+    "violationCountLastWeek": 405
+  },
+  {
+    "policeStation": "City Market",
+    "rank": 25,
+    "priorityScore": 52.96,
+    "violationDensityScore": 94.44,
+    "closureRiskScore": 7.41,
+    "trendScore": 61.11,
+    "violationCountLastWeek": 944
+  },
+  {
+    "policeStation": "Mico Layout",
+    "rank": 26,
+    "priorityScore": 52.22,
+    "violationDensityScore": 70.37,
+    "closureRiskScore": 16.67,
+    "trendScore": 87.04,
+    "violationCountLastWeek": 213
+  },
+  {
+    "policeStation": "Yeshwanthpura",
+    "rank": 27,
+    "priorityScore": 51.85,
+    "violationDensityScore": 37.04,
+    "closureRiskScore": 83.33,
+    "trendScore": 18.52,
+    "violationCountLastWeek": 85
+  },
+  {
+    "policeStation": "High ground",
+    "rank": 28,
+    "priorityScore": 51.48,
+    "violationDensityScore": 42.59,
+    "closureRiskScore": 56.48,
+    "trendScore": 59.26,
+    "violationCountLastWeek": 107
+  },
+  {
+    "policeStation": "Jeevanbheemanagar",
+    "rank": 29,
+    "priorityScore": 51.48,
+    "violationDensityScore": 59.26,
+    "closureRiskScore": 61.11,
+    "trendScore": 16.67,
+    "violationCountLastWeek": 169
+  },
+  {
+    "policeStation": "Adugodi",
+    "rank": 30,
+    "priorityScore": 51.11,
+    "violationDensityScore": 66.67,
+    "closureRiskScore": 42.59,
+    "trendScore": 37.04,
+    "violationCountLastWeek": 202
+  },
+  {
+    "policeStation": "Ashok Nagar",
+    "rank": 31,
+    "priorityScore": 50.74,
+    "violationDensityScore": 35.19,
+    "closureRiskScore": 56.48,
+    "trendScore": 70.37,
+    "violationCountLastWeek": 84
+  },
+  {
+    "policeStation": "Bellandur",
+    "rank": 32,
+    "priorityScore": 50.74,
+    "violationDensityScore": 74.07,
+    "closureRiskScore": 18.52,
+    "trendScore": 68.52,
+    "violationCountLastWeek": 236
+  },
+  {
+    "policeStation": "Thalagattapura",
+    "rank": 33,
+    "priorityScore": 48.15,
+    "violationDensityScore": 29.63,
+    "closureRiskScore": 48.15,
+    "trendScore": 85.19,
+    "violationCountLastWeek": 73
+  },
+  {
+    "policeStation": "Electronic City",
+    "rank": 34,
+    "priorityScore": 47.41,
+    "violationDensityScore": 61.11,
+    "closureRiskScore": 35.19,
+    "trendScore": 44.44,
+    "violationCountLastWeek": 183
+  },
+  {
+    "policeStation": "Banashankari",
+    "rank": 35,
+    "priorityScore": 47.04,
+    "violationDensityScore": 57.41,
+    "closureRiskScore": 11.11,
+    "trendScore": 98.15,
+    "violationCountLastWeek": 156
+  },
+  {
+    "policeStation": "Sheshadripuram",
+    "rank": 36,
+    "priorityScore": 41.85,
+    "violationDensityScore": 46.3,
+    "closureRiskScore": 46.3,
+    "trendScore": 24.07,
+    "violationCountLastWeek": 111
+  },
+  {
+    "policeStation": "K.G. Halli",
+    "rank": 37,
+    "priorityScore": 40.74,
+    "violationDensityScore": 5.56,
+    "closureRiskScore": 72.22,
+    "trendScore": 48.15,
+    "violationCountLastWeek": 17
+  },
+  {
+    "policeStation": "Halasur",
+    "rank": 38,
+    "priorityScore": 40.37,
+    "violationDensityScore": 44.44,
+    "closureRiskScore": 31.48,
+    "trendScore": 50.0,
+    "violationCountLastWeek": 110
+  },
+  {
+    "policeStation": "Kamakshipalya",
+    "rank": 39,
+    "priorityScore": 37.04,
+    "violationDensityScore": 11.11,
+    "closureRiskScore": 77.78,
+    "trendScore": 7.41,
+    "violationCountLastWeek": 36
+  },
+  {
+    "policeStation": "Jnanabharathi",
+    "rank": 40,
+    "priorityScore": 36.67,
+    "violationDensityScore": 9.26,
+    "closureRiskScore": 50.0,
+    "trendScore": 64.81,
+    "violationCountLastWeek": 32
+  },
+  {
+    "policeStation": "Chikkajala",
+    "rank": 41,
+    "priorityScore": 35.19,
+    "violationDensityScore": 48.15,
+    "closureRiskScore": 37.04,
+    "trendScore": 5.56,
+    "violationCountLastWeek": 114
+  },
+  {
+    "policeStation": "Peenya",
+    "rank": 42,
+    "priorityScore": 33.34,
+    "violationDensityScore": 16.67,
+    "closureRiskScore": 27.78,
+    "trendScore": 77.78,
+    "violationCountLastWeek": 49
+  },
+  {
+    "policeStation": "Pulikeshinagar(F.Town)",
+    "rank": 43,
+    "priorityScore": 32.96,
+    "violationDensityScore": 53.7,
+    "closureRiskScore": 14.81,
+    "trendScore": 27.78,
+    "violationCountLastWeek": 139
+  },
+  {
+    "policeStation": "Madiwala",
+    "rank": 44,
+    "priorityScore": 32.22,
+    "violationDensityScore": 20.37,
+    "closureRiskScore": 53.7,
+    "trendScore": 12.96,
+    "violationCountLastWeek": 53
+  },
+  {
+    "policeStation": "Chikkabanavara",
+    "rank": 45,
+    "priorityScore": 31.11,
+    "violationDensityScore": 24.07,
+    "closureRiskScore": 12.96,
+    "trendScore": 81.48,
+    "violationCountLastWeek": 56
+  },
+  {
+    "policeStation": "Hebbala",
+    "rank": 46,
+    "priorityScore": 28.15,
+    "violationDensityScore": 33.33,
+    "closureRiskScore": 29.63,
+    "trendScore": 14.81,
+    "violationCountLastWeek": 77
+  },
+  {
+    "policeStation": "J.P. Nagar",
+    "rank": 47,
+    "priorityScore": 25.93,
+    "violationDensityScore": 38.89,
+    "closureRiskScore": 9.26,
+    "trendScore": 33.33,
+    "violationCountLastWeek": 89
+  },
+  {
+    "policeStation": "Hennuru",
+    "rank": 48,
+    "priorityScore": 24.44,
+    "violationDensityScore": 3.7,
+    "closureRiskScore": 25.93,
+    "trendScore": 62.96,
+    "violationCountLastWeek": 13
+  },
+  {
+    "policeStation": "Hulimavu",
+    "rank": 49,
+    "priorityScore": 21.85,
+    "violationDensityScore": 31.48,
+    "closureRiskScore": 21.3,
+    "trendScore": 3.7,
+    "violationCountLastWeek": 76
+  },
+  {
+    "policeStation": "V.V.Puram (C.Pet)",
+    "rank": 50,
+    "priorityScore": 21.11,
+    "violationDensityScore": 25.93,
+    "closureRiskScore": 21.3,
+    "trendScore": 11.11,
+    "violationCountLastWeek": 66
+  },
+  {
+    "policeStation": "R.T. Nagar",
+    "rank": 51,
+    "priorityScore": 17.77,
+    "violationDensityScore": 14.81,
+    "closureRiskScore": 3.7,
+    "trendScore": 51.85,
+    "violationCountLastWeek": 40
+  },
+  {
+    "policeStation": "Kengeri",
+    "rank": 52,
+    "priorityScore": 14.82,
+    "violationDensityScore": 7.41,
+    "closureRiskScore": 1.85,
+    "trendScore": 55.56,
+    "violationCountLastWeek": 21
+  },
+  {
+    "policeStation": "K.S. Layout",
+    "rank": 53,
+    "priorityScore": 11.48,
+    "violationDensityScore": 12.96,
+    "closureRiskScore": 5.56,
+    "trendScore": 20.37,
+    "violationCountLastWeek": 39
+  },
+  {
+    "policeStation": "Devanahalli Airport",
+    "rank": 54,
+    "priorityScore": 10.74,
+    "violationDensityScore": 1.85,
+    "closureRiskScore": 24.07,
+    "trendScore": 1.85,
+    "violationCountLastWeek": 12
+  }
+]

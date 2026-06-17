@@ -1,0 +1,8712 @@
+{
+  "Adugodi": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 86,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 141,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 103,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 51,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 141,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 115,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 231,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 97,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 97,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 144,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 102,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 86,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 179,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 134,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 148,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 286,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 194,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 236,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 225,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 227,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 202,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 107,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1274
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1043
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 571
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 201
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 114
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2599
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 882
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 207
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP135 - UCO Bank Junction",
+        "count": 1112
+      },
+      {
+        "junctionName": "BTP140 - Madiwala Check Post",
+        "count": 217
+      },
+      {
+        "junctionName": "BTP126 - Dairy Circle",
+        "count": 73
+      },
+      {
+        "junctionName": "BTP133 - Adugodi Junction",
+        "count": 73
+      },
+      {
+        "junctionName": "BTP136 - Hosur-Tavarkere Road Junction",
+        "count": 51
+      }
+    ]
+  },
+  "Ashok Nagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 227,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 215,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 182,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 294,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 179,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 151,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 258,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 291,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 221,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 183,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 219,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 159,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 191,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 137,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 51,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 173,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 108,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 62,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 64,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 84,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 21,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1536
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 766
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 744
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 240
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 57
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2888
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 713
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 180
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP172 - Nanjappa Circle",
+        "count": 776
+      },
+      {
+        "junctionName": "BTP101 - Blood Bank Circle, KH Road",
+        "count": 381
+      },
+      {
+        "junctionName": "BTP100 - Richmond Circle",
+        "count": 299
+      },
+      {
+        "junctionName": "BTP099 - Cash Pharmacy, Residency Road",
+        "count": 177
+      },
+      {
+        "junctionName": "BTP132 - Anepalya Junction",
+        "count": 133
+      }
+    ]
+  },
+  "Banashankari": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 62,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 79,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 62,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 115,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 76,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 132,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 48,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 28,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 53,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 19,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 38,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 19,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 51,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 9,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 44,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 83,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 23,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 27,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 156,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 24,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 615
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 206
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 173
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 91
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 34
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 885
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 333
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 78
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP155 - Katriguppe Junction",
+        "count": 339
+      },
+      {
+        "junctionName": "BTP115 - Sahasra Hospital, Jayanagar",
+        "count": 133
+      },
+      {
+        "junctionName": "BTP113 - 27th Cross, Pai Vista, KR Road",
+        "count": 126
+      },
+      {
+        "junctionName": "BTP114 - KR Road Junction, Near JSS",
+        "count": 63
+      },
+      {
+        "junctionName": "BTP158 - Devegowda Petrol Bunk",
+        "count": 45
+      }
+    ]
+  },
+  "Banaswadi": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 62,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 139,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 117,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 199,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 98,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 144,
+        "closureCount": 6
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 191,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 366,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 217,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 125,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 148,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 117,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 250,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 294,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 145,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 125,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 114,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 235,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 130,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 289,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 206,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 48,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 996
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 964
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 774
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 504
+      },
+      {
+        "vehicleType": "BUS (BMTC/KSRTC)",
+        "count": 143
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2175
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1656
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 902
+      }
+    ],
+    "topJunctions": []
+  },
+  "Basavanagudi": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 159,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 257,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 152,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 156,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 93,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 75,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 121,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 151,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 211,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 217,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 151,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 155,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 138,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 92,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 183,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 95,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 99,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 133,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 398,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 289,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1604
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1265
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 384
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 222
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 61
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1946
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1668
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 122
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP108 - Tagore Park Junction",
+        "count": 1801
+      },
+      {
+        "junctionName": "BTP215 - Vanivillas Junction",
+        "count": 409
+      },
+      {
+        "junctionName": "BTP109 - Dewan Madhava Rao Junction",
+        "count": 309
+      },
+      {
+        "junctionName": "BTP216 - Yediyur Junction",
+        "count": 170
+      },
+      {
+        "junctionName": "BTP186 - 9th Cross, 4th Main, Jayanagar",
+        "count": 100
+      }
+    ]
+  },
+  "Bellandur": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 271,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 338,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 188,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 166,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 202,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 213,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 313,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 384,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 375,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 330,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 114,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 273,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 235,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 227,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 155,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 142,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 120,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 164,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 232,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 236,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 87,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1581
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 1030
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 831
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 661
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 584
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 2910
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 2122
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 258
+      }
+    ],
+    "topJunctions": []
+  },
+  "Byatarayanapura": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 85,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 220,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 312,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 162,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 121,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 228,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 254,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 270,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 109,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 421,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 340,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 162,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 94,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 340,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 301,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 363,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 135,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 185,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 150,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 128,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 139,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 36,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1712
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 823
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 809
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 477
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 141
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 3004
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1645
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 737
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP096 - Gali Anjaneya Temple",
+        "count": 972
+      },
+      {
+        "junctionName": "BTP095 - Satellite Bus Stand, Mysore Road",
+        "count": 775
+      },
+      {
+        "junctionName": "BTP017 - Attiguppe Circle",
+        "count": 393
+      },
+      {
+        "junctionName": "BTP098 - Nayandahalli Junction",
+        "count": 206
+      },
+      {
+        "junctionName": "BTP094 - Sri Skanda Complex, Mysore Road",
+        "count": 111
+      }
+    ]
+  },
+  "Chamarajpet": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 177,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 219,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 201,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 179,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 295,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 139,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 140,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 283,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 153,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 237,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 195,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 63,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 71,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 153,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 381,
+        "closureCount": 5
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 250,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 222,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 102,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 139,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 55,
+        "closureCount": 4
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 1863
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 530
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 522
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 454
+      },
+      {
+        "vehicleType": "GOODS AUTO",
+        "count": 139
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2309
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1845
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 832
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP048 - Shanthala Junction",
+        "count": 1537
+      },
+      {
+        "junctionName": "BTP083 - AS Char Street, Mysore Road",
+        "count": 1529
+      },
+      {
+        "junctionName": "BTP085 - Briyand Circle",
+        "count": 157
+      },
+      {
+        "junctionName": "BTP091 - Sirsi Circle",
+        "count": 125
+      },
+      {
+        "junctionName": "BTP214 - 5th Main Chamrajpet  Junction",
+        "count": 118
+      }
+    ]
+  },
+  "Chikkabanavara": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 83,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 39,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 41,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 34,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 49,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 23,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 55,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 30,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 17,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 32,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 16,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 19,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 29,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 50,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 36,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 56,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 52,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 259
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 171
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 126
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 65
+      },
+      {
+        "vehicleType": "HGV",
+        "count": 44
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 468
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 330
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 88
+      }
+    ],
+    "topJunctions": []
+  },
+  "Chikkajala": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 85,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 221,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 136,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 156,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 413,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 337,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 344,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 289,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 365,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 291,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 450,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 212,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 253,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 129,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 389,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 429,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 384,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 363,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 201,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 187,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 114,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 86,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 3865
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 1606
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 99
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 96
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 44
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 3958
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1913
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 1369
+      }
+    ],
+    "topJunctions": []
+  },
+  "City Market": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 473,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 900,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 523,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 667,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 1084,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 878,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 587,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 558,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 1028,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 888,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 1455,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 678,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 905,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 716,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 680,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 1063,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 827,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 862,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 747,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 803,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 944,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 380,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 7308
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 3283
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 2185
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 1926
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 1441
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 14383
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 3393
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 543
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP082 - KR Market Junction",
+        "count": 10109
+      },
+      {
+        "junctionName": "BTP104 - Medical College Circle",
+        "count": 1457
+      },
+      {
+        "junctionName": "BTP043 - Upparpet Junction",
+        "count": 1407
+      },
+      {
+        "junctionName": "BTP083 - AS Char Street, Mysore Road",
+        "count": 1183
+      },
+      {
+        "junctionName": "BTP118 - Basappa Circle",
+        "count": 623
+      }
+    ]
+  },
+  "Cubbon Park": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 323,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 254,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 273,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 430,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 154,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 119,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 111,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 139,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 79,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 136,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 104,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 149,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 107,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 84,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 109,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 79,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 101,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 145,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 124,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 120,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 58,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1361
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 904
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 503
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 229
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 98
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2566
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 706
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 185
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP063 - Siddalingaiah Circle",
+        "count": 983
+      },
+      {
+        "junctionName": "BTP041 - Gopal Gowda Circle",
+        "count": 378
+      },
+      {
+        "junctionName": "BTP047 - Vidhan Soudha Metro Station",
+        "count": 200
+      },
+      {
+        "junctionName": "BTP076 - Hudson Circle",
+        "count": 180
+      },
+      {
+        "junctionName": "BTP099 - Cash Pharmacy, Residency Road",
+        "count": 172
+      }
+    ]
+  },
+  "Devanahalli Airport": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 26,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 31,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 10,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 46,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 53,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 86,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 64,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 14,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 38,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 46,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 119,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 53,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 42,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 12,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 38,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 839
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 21
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 21
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 16
+      },
+      {
+        "vehicleType": "HGV",
+        "count": 12
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 496
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 457
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 24
+      }
+    ],
+    "topJunctions": []
+  },
+  "Electronic City": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 200,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 117,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 155,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 126,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 104,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 227,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 251,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 208,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 109,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 227,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 99,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 202,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 182,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 311,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 300,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 503,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 158,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 187,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 265,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 125,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 183,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 94,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1432
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 1102
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 997
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 255
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 146
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 2936
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1496
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 415
+      }
+    ],
+    "topJunctions": []
+  },
+  "HAL Old Airport": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 572,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 660,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 336,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 370,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 1565,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 761,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 768,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 1192,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 1698,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 2034,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 1261,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 739,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 1033,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 1140,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 1192,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 1237,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 956,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 1103,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 831,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 731,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 504,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 136,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 5926
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 5298
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 3653
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 2153
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 2028
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 12153
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 9998
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 5635
+      }
+    ],
+    "topJunctions": []
+  },
+  "HSR Layout": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 364,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 280,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 266,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 292,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 230,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 272,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 313,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 253,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 284,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 171,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 298,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 261,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 192,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 396,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 263,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 158,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 66,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 101,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 146,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 150,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 187,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 75,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1506
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1463
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 1085
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 345
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 174
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 2992
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 2034
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 114
+      }
+    ],
+    "topJunctions": []
+  },
+  "Halasur": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 173,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 254,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 212,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 265,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 345,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 131,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 158,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 283,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 242,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 173,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 154,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 157,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 186,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 181,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 228,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 106,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 101,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 126,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 110,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 156,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1550
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 748
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 616
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 577
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 310
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 3296
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 995
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 344
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP145 - Sri Hatti Maramma Circle, Domluru",
+        "count": 171
+      },
+      {
+        "junctionName": "BTP146 - Domlur Water Tank",
+        "count": 136
+      },
+      {
+        "junctionName": "BTP141 - Palmgroove Junction",
+        "count": 28
+      },
+      {
+        "junctionName": "BTP143 - ASC Junction",
+        "count": 24
+      },
+      {
+        "junctionName": "BTP144 - Commando Hospital Junction",
+        "count": 6
+      }
+    ]
+  },
+  "Halasuru Gate": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 319,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 361,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 337,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 326,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 309,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 231,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 347,
+        "closureCount": 5
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 331,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 323,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 181,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 332,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 115,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 464,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 443,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 380,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 316,
+        "closureCount": 5
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 166,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 175,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 308,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 117,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 301,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 112,
+        "closureCount": 5
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 2135
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1437
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 808
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 780
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 449
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 3607
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 2694
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 167
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP080 - NR Road, SP Road Junction",
+        "count": 3283
+      },
+      {
+        "junctionName": "BTP082 - KR Market Junction",
+        "count": 796
+      },
+      {
+        "junctionName": "BTP038 - Mysore Bank Junction",
+        "count": 594
+      },
+      {
+        "junctionName": "BTP076 - Hudson Circle",
+        "count": 275
+      },
+      {
+        "junctionName": "BTP078 - NR Square Junction",
+        "count": 244
+      }
+    ]
+  },
+  "Hebbala": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 134,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 81,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 154,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 268,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 191,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 254,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 150,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 156,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 157,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 165,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 228,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 90,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 179,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 113,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 163,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 176,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 132,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 149,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 90,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 77,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 31,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1259
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 765
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 674
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 371
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 52
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2462
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 770
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 216
+      }
+    ],
+    "topJunctions": []
+  },
+  "Hennuru": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 26,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 52,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 53,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 75,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 97,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 45,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 70,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 15,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 34,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 78,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 15,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 41,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 15,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 7,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 6,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 11,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 16,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 150,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 289
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 289
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 167
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 49
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 24
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 632
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 278
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 115
+      }
+    ],
+    "topJunctions": []
+  },
+  "High ground": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 248,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 452,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 376,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 328,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 335,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 507,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 392,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 294,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 381,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 166,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 311,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 135,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 244,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 110,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 62,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 59,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 132,
+        "closureCount": 6
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 91,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 52,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 135,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 107,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 34,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 2651
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1213
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 551
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 252
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 143
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 3223
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1741
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 140
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP032 - Windsor Circle",
+        "count": 2429
+      },
+      {
+        "junctionName": "BTP054 - Shivananda Circle",
+        "count": 589
+      },
+      {
+        "junctionName": "BTP058 - Subbanna Junction",
+        "count": 359
+      },
+      {
+        "junctionName": "BTP033 - Sophia High School, Sankey Road",
+        "count": 208
+      },
+      {
+        "junctionName": "BTP034 - LRDE Junction",
+        "count": 178
+      }
+    ]
+  },
+  "Hulimavu": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 93,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 35,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 110,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 86,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 128,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 87,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 92,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 100,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 84,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 108,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 64,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 97,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 302,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 128,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 294,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 130,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 115,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 76,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 80,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 894
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 474
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 254
+      },
+      {
+        "vehicleType": "LORRY/GOODS VEHICLE",
+        "count": 209
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 194
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1979
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 417
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 23
+      }
+    ],
+    "topJunctions": []
+  },
+  "J.P. Nagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 67,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 72,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 46,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 59,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 195,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 108,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 77,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 53,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 54,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 74,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 69,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 62,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 32,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 65,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 62,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 73,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 64,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 122,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 129,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 59,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 89,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 6,
+        "closureCount": 2
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 655
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 497
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 201
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 104
+      },
+      {
+        "vehicleType": "GOODS AUTO",
+        "count": 78
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 886
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 759
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 92
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP197 - 9th Cross, 24th Main, JP Nagar",
+        "count": 284
+      },
+      {
+        "junctionName": "BTP196 - Sarakki Main Road",
+        "count": 138
+      },
+      {
+        "junctionName": "BTP130 - GD Mara Junction",
+        "count": 133
+      },
+      {
+        "junctionName": "BTP117 - 9th Cross, Kanakapura Road",
+        "count": 120
+      },
+      {
+        "junctionName": "BTP221 - 15th Cross, 24th Main, JP Nagar",
+        "count": 116
+      }
+    ]
+  },
+  "Jalahalli": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 57,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 34,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 23,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 95,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 61,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 76,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 58,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 59,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 82,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 63,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 109,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 50,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 59,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 44,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 55,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 22,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 18,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 51,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 24,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 388
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 378
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 222
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 41
+      },
+      {
+        "vehicleType": "OTHERS",
+        "count": 30
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 808
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 598
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 133
+      }
+    ],
+    "topJunctions": []
+  },
+  "Jayanagara": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 242,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 239,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 150,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 146,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 250,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 133,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 259,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 263,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 247,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 203,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 154,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 86,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 120,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 70,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 41,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 203,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 163,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 184,
+        "closureCount": 7
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 55,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 141,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 304,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 160,
+        "closureCount": 4
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1538
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1394
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 466
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 151
+      },
+      {
+        "vehicleType": "BUS (BMTC/KSRTC)",
+        "count": 77
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2890
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1271
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 328
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP189 - New Diagonal Road, Jayanagar",
+        "count": 602
+      },
+      {
+        "junctionName": "BTP226 - 33rd Cross, 11th Main, Jayanagar",
+        "count": 492
+      },
+      {
+        "junctionName": "BTP219 - Canara Bank Junction",
+        "count": 358
+      },
+      {
+        "junctionName": "BTP220 - Puttanna Junction",
+        "count": 294
+      },
+      {
+        "junctionName": "BTP188 - 27th Cross, 4th Main, Jayanagar",
+        "count": 294
+      }
+    ]
+  },
+  "Jeevanbheemanagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 252,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 233,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 125,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 518,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 511,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 326,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 456,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 432,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 507,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 451,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 336,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 139,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 376,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 273,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 254,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 178,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 279,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 330,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 213,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 263,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 169,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 115,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 2573
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1490
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 989
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 814
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 565
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 5618
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1736
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 1033
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP148 - 17th Main, Doopanahalli Bus Stop",
+        "count": 745
+      },
+      {
+        "junctionName": "BTP146 - Domlur Water Tank",
+        "count": 10
+      }
+    ]
+  },
+  "Jnanabharathi": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 65,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 67,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 16,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 53,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 81,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 56,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 87,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 101,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 72,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 46,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 29,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 56,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 27,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 22,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 22,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 27,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 27,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 32,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 16,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 659
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 135
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 72
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 60
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 39
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 574
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 498
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 109
+      }
+    ],
+    "topJunctions": []
+  },
+  "K.G. Halli": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 20,
+        "closureCount": 4
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 31,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 48,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 79,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 39,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 48,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 96,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 45,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 83,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 30,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 6,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 6,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 23,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 22,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 146,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 23,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 11,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 18,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 17,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 23,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 321
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 133
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 114
+      },
+      {
+        "vehicleType": "HGV",
+        "count": 81
+      },
+      {
+        "vehicleType": "TEMPO",
+        "count": 73
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 677
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 223
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 42
+      }
+    ],
+    "topJunctions": []
+  },
+  "K.R. Pura": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 349,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 425,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 156,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 305,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 291,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 267,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 347,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 359,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 368,
+        "closureCount": 5
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 261,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 371,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 216,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 201,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 394,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 291,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 252,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 377,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 243,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 316,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 263,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 187,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 307,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1833
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1680
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 1243
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 811
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 302
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 4527
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 2126
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 1493
+      }
+    ],
+    "topJunctions": []
+  },
+  "K.S. Layout": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 66,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 34,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 56,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 53,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 39,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 42,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 27,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 17,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 21,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 41,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 26,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 35,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 39,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 16,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 245
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 177
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 101
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 100
+      },
+      {
+        "vehicleType": "MOPED",
+        "count": 97
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 426
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 407
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 269
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP117 - 9th Cross, Kanakapura Road",
+        "count": 76
+      },
+      {
+        "junctionName": "BTP159 - JP Nagar Metro, ORR",
+        "count": 37
+      },
+      {
+        "junctionName": "BTP115 - Sahasra Hospital, Jayanagar",
+        "count": 31
+      },
+      {
+        "junctionName": "BTP157 - Kadirenahalli Cross",
+        "count": 13
+      },
+      {
+        "junctionName": "BTP113 - 27th Cross, Pai Vista, KR Road",
+        "count": 2
+      }
+    ]
+  },
+  "Kamakshipalya": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 59,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 73,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 124,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 135,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 63,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 48,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 29,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 9,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 18,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 121,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 85,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 69,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 43,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 68,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 46,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 68,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 68,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 90,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 36,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 51,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 593
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 332
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 290
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 114
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 44
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 753
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 699
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 80
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP208 - Havanur Circle",
+        "count": 250
+      }
+    ]
+  },
+  "Kengeri": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 64,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 40,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 44,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 10,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 16,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 12,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 9,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 2,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 34,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 42,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 7,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 18,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 7,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 16,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 8,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 32,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 21,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 5,
+        "closureCount": 2
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 216
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 121
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 44
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 21
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 17
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 379
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 110
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 98
+      }
+    ],
+    "topJunctions": []
+  },
+  "Kodigehalli": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 372,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 299,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 455,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 223,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 264,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 410,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 497,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 493,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 361,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 603,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 589,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 738,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 667,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 747,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 589,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 452,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 434,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 616,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 547,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 500,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 622,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 438,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 4398
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 2889
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 2651
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 401
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 159
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 7657
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 3322
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 474
+      }
+    ],
+    "topJunctions": []
+  },
+  "Madiwala": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 32,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 32,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 18,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 30,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 116,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 46,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 48,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 143,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 178,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 54,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 110,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 89,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 117,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 109,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 38,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 102,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 94,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 76,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 53,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 25,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 636
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 261
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 215
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 151
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 56
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 1190
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 406
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 239
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP137 - Madiwala Traffic PS Junction",
+        "count": 596
+      },
+      {
+        "junctionName": "BTP138 - Sarjapur Road Check Post",
+        "count": 60
+      },
+      {
+        "junctionName": "BTP140 - Madiwala Check Post",
+        "count": 41
+      },
+      {
+        "junctionName": "BTP136 - Hosur-Tavarkere Road Junction",
+        "count": 15
+      },
+      {
+        "junctionName": "BTP164 - 29th Main Road, BTM Layout",
+        "count": 11
+      }
+    ]
+  },
+  "Magadi Road": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 612,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 457,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 457,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 209,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 284,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 268,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 403,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 622,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 440,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 468,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 444,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 475,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 264,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 371,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 217,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 294,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 242,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 315,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 276,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 846,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 405,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 189,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 4408
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 1365
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1170
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 816
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 213
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 5583
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 3008
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 388
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP070 - Cholurpalya Junction, Magadi Road",
+        "count": 2272
+      },
+      {
+        "junctionName": "BTP074 - Leprosy Hospital Junction",
+        "count": 1047
+      },
+      {
+        "junctionName": "BTP071 - Prasanna Junction",
+        "count": 721
+      },
+      {
+        "junctionName": "BTP010 - Rajajinagar Entrance",
+        "count": 623
+      },
+      {
+        "junctionName": "BTP024 - NPS, Vijayanagar",
+        "count": 565
+      }
+    ]
+  },
+  "Mahadevapura": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 155,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 178,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 146,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 104,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 144,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 376,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 633,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 497,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 495,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 217,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 276,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 169,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 239,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 320,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 129,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 411,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 154,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 378,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 317,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 293,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 345,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 211,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1894
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 1460
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 942
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 665
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 552
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 3602
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 2985
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 2131
+      }
+    ],
+    "topJunctions": []
+  },
+  "Malleshwaram": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 1139,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 1157,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 1164,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 1383,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 892,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 876,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 1102,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 805,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 889,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 785,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 1062,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 842,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 1363,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 918,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 1193,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 930,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 714,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 1002,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 915,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 759,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 1399,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 911,
+        "closureCount": 2
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 10544
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 4927
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 2968
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 2553
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 551
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 14003
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 8259
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 235
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP001 - 10th Cross, Dr. Rajkumar Road",
+        "count": 2812
+      },
+      {
+        "junctionName": "BTP182 - 19th Main Junction, Rajajinagar",
+        "count": 1091
+      },
+      {
+        "junctionName": "BTP026 - 1st Block Junction, Rajajinagar",
+        "count": 1039
+      },
+      {
+        "junctionName": "BTP008 - Navarang Theatre",
+        "count": 966
+      },
+      {
+        "junctionName": "BTP023 - Mahalaxmi Layout Entrance",
+        "count": 868
+      }
+    ]
+  },
+  "Mico Layout": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 114,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 210,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 168,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 137,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 221,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 127,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 85,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 192,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 119,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 82,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 41,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 34,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 55,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 89,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 58,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 91,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 69,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 141,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 108,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 213,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 35,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1055
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 552
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 460
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 181
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 173
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 1749
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 842
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 522
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP130 - GD Mara Junction",
+        "count": 498
+      },
+      {
+        "junctionName": "BTP163 - 16th Main Road, BTM Layout",
+        "count": 364
+      },
+      {
+        "junctionName": "BTP136 - Hosur-Tavarkere Road Junction",
+        "count": 294
+      },
+      {
+        "junctionName": "BTP126 - Dairy Circle",
+        "count": 213
+      },
+      {
+        "junctionName": "BTP140 - Madiwala Check Post",
+        "count": 110
+      }
+    ]
+  },
+  "No Police Station": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-16",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 34,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 17,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 11,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 27,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 23,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 22,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 15,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 20,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 11,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 6,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 16,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 8,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 7,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 5,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 5,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 4,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 54,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 110
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 49
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 40
+      },
+      {
+        "vehicleType": "HGV",
+        "count": 30
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 28
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 297
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 72
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 39
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP016 - 5th Main Road, RPC Layout",
+        "count": 10
+      },
+      {
+        "junctionName": "BTP057 - Anand Rao Junction",
+        "count": 3
+      },
+      {
+        "junctionName": "BTP067 - Jai Muni Rao Circle",
+        "count": 2
+      },
+      {
+        "junctionName": "BTP028 - Vijayanagar Bus Stand Junction",
+        "count": 1
+      },
+      {
+        "junctionName": "BTP022 - Marenahalli Junction, Vijayanagar",
+        "count": 1
+      }
+    ]
+  },
+  "Peenya": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 43,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 42,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 77,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 30,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 81,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 29,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 159,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 31,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 47,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 30,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 56,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 25,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 17,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 41,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 23,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 49,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 25,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 257
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 171
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 164
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 128
+      },
+      {
+        "vehicleType": "BUS (BMTC/KSRTC)",
+        "count": 45
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 573
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 442
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 106
+      }
+    ],
+    "topJunctions": []
+  },
+  "Pulikeshinagar(F.Town)": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 189,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 112,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 235,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 166,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 248,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 129,
+        "closureCount": 3
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 160,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 316,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 235,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 264,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 134,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 211,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 166,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 220,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 193,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 210,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 250,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 117,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 171,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 139,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 72,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1633
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1400
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 489
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 406
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 84
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2857
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1312
+      },
+      {
+        "violationType": "PARKING ON FOOTPATH",
+        "count": 198
+      }
+    ],
+    "topJunctions": []
+  },
+  "R.T. Nagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 24,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 16,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 98,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 394,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 320,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 146,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 66,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 67,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 70,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 35,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 51,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 23,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 55,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 59,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 40,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 34,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 40,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 43,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 40,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 21,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 769
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 445
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 205
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 135
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 56
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1149
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 590
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 98
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP030 - Mekhri Circle",
+        "count": 27
+      }
+    ]
+  },
+  "Rajajinagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 476,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 698,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 720,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 690,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 400,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 634,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 556,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 403,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 525,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 371,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 570,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 406,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 596,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 540,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 497,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 399,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 380,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 312,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 347,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 417,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 609,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 452,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 3641
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 3312
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 1377
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 660
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 487
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 7397
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 3639
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 726
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP027 - Modi Bridge Junction",
+        "count": 2759
+      },
+      {
+        "junctionName": "BTP011 - RR Kalyana Mantapa, Dr. Rajkumar Road",
+        "count": 1192
+      },
+      {
+        "junctionName": "BTP061 - Bhashyam Circle",
+        "count": 972
+      },
+      {
+        "junctionName": "BTP023 - Mahalaxmi Layout Entrance",
+        "count": 939
+      },
+      {
+        "junctionName": "BTP204 - ESI Hospital, Rajajinagar",
+        "count": 638
+      }
+    ]
+  },
+  "Sadashivanagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 34,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 59,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 42,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 95,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 38,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 79,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 77,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 29,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 33,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 80,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 63,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 67,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 38,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 60,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 96,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 43,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 25,
+        "closureCount": 4
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 31,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 49,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 139,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 215,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 53,
+        "closureCount": 4
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 857
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 282
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 167
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 34
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 22
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 767
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 682
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 119
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP030 - Mekhri Circle",
+        "count": 60
+      }
+    ]
+  },
+  "Sheshadripuram": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 240,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 192,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 95,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 153,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 199,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 83,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 144,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 112,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 140,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 132,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 100,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 127,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 149,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 153,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 133,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 101,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 208,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 171,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 159,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 148,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 111,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 40,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 1308
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 910
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 374
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 290
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 72
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2053
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1090
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 70
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP032 - Windsor Circle",
+        "count": 320
+      },
+      {
+        "junctionName": "BTP054 - Shivananda Circle",
+        "count": 162
+      },
+      {
+        "junctionName": "BTP057 - Anand Rao Junction",
+        "count": 154
+      },
+      {
+        "junctionName": "BTP010 - Rajajinagar Entrance",
+        "count": 82
+      }
+    ]
+  },
+  "Shivajinagar": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 1567,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 2886,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 1213,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 790,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 1194,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 893,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 776,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 1426,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 1580,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 1669,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 2140,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 942,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 852,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 1176,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 1055,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 889,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 1265,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 1174,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 915,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 1247,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 1850,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 545,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 9424
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 8889
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 5874
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 2759
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 423
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 17301
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 10791
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 1145
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP051 - Safina Plaza Junction",
+        "count": 15298
+      },
+      {
+        "junctionName": "BTP211 - Central Street Junction",
+        "count": 5373
+      },
+      {
+        "junctionName": "BTP042 - Minsk Square Junction (CTO)",
+        "count": 1880
+      },
+      {
+        "junctionName": "BTP173 - TMC",
+        "count": 149
+      },
+      {
+        "junctionName": "BTP171 - Indian Express (Balekundri)",
+        "count": 96
+      }
+    ]
+  },
+  "Thalagattapura": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 98,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 83,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 16,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 28,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 35,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 45,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 35,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 33,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 19,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 11,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 49,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 26,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 22,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 18,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 64,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 13,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 38,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 73,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 37,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 340
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 218
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 111
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 102
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 35
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 502
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 370
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 59
+      }
+    ],
+    "topJunctions": []
+  },
+  "Upparpet": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 2139,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 2015,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 1775,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 1770,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 1824,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 1552,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 2109,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 1709,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 1873,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 2072,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 1759,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 931,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 1259,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 1011,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 1310,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 1226,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 1565,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 1448,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 908,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 1328,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 1621,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 1264,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 11820
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 10875
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 3984
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 3787
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 991
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 18058
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 16450
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 785
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP040 - Elite Junction",
+        "count": 10718
+      },
+      {
+        "junctionName": "BTP044 - Sagar Theatre Junction",
+        "count": 10049
+      },
+      {
+        "junctionName": "BTP058 - Subbanna Junction",
+        "count": 4830
+      },
+      {
+        "junctionName": "BTP057 - Anand Rao Junction",
+        "count": 3641
+      },
+      {
+        "junctionName": "BTP045 - Danvanthri Road Junction",
+        "count": 3181
+      }
+    ]
+  },
+  "V.V.Puram (C.Pet)": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 38,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 40,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 31,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 42,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 65,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 37,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 31,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 69,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 16,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 44,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 32,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 22,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 327,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 177,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 189,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 69,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 90,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 66,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 12,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 552
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 416
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 252
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 132
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 103
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 884
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 675
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 57
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP082 - KR Market Junction",
+        "count": 632
+      },
+      {
+        "junctionName": "BTP105 - Shivasankara Circle",
+        "count": 186
+      },
+      {
+        "junctionName": "BTP106 - VV Puram College",
+        "count": 159
+      },
+      {
+        "junctionName": "BTP193 - Vasavi Circle",
+        "count": 105
+      },
+      {
+        "junctionName": "BTP217 - Baleyele Junction",
+        "count": 85
+      }
+    ]
+  },
+  "Vijayanagara": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 676,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 624,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 895,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 869,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 739,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 1028,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 816,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 544,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 596,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 601,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 694,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 909,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 911,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 740,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 696,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 618,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 619,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 666,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 563,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 257,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 435,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 156,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 7404
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 3170
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 3143
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 438
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 113
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 9680
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 5036
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 420
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP020 - Hosahalli Metro Station",
+        "count": 4035
+      },
+      {
+        "junctionName": "BTP016 - 5th Main Road, RPC Layout",
+        "count": 2464
+      },
+      {
+        "junctionName": "BTP027 - Modi Bridge Junction",
+        "count": 1173
+      },
+      {
+        "junctionName": "BTP022 - Marenahalli Junction, Vijayanagar",
+        "count": 1156
+      },
+      {
+        "junctionName": "BTP205 - Modi Hospital Junction",
+        "count": 1007
+      }
+    ]
+  },
+  "Whitefield": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 120,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 72,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 25,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 31,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 54,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 57,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 56,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 156,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 231,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 188,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 102,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 61,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 144,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 46,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 72,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 192,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 227,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 162,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 107,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 64,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 105,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 31,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 703
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 565
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 436
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 150
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 122
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1597
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1026
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 737
+      }
+    ],
+    "topJunctions": []
+  },
+  "Wilson Garden": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 114,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 197,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 162,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 231,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 124,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 109,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 111,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 84,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 121,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 71,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 79,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 95,
+        "closureCount": 2
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 117,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 66,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 128,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 163,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 100,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 142,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 104,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 254,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 343,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 193,
+        "closureCount": 2
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 1177
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 1026
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 352
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 298
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 48
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "NO PARKING",
+        "count": 2097
+      },
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1020
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 48
+      }
+    ],
+    "topJunctions": [
+      {
+        "junctionName": "BTP123 - 10th Cross, Wilson Garden",
+        "count": 528
+      },
+      {
+        "junctionName": "BTP192 - Urvashi Theater",
+        "count": 469
+      },
+      {
+        "junctionName": "BTP186 - 9th Cross, 4th Main, Jayanagar",
+        "count": 446
+      },
+      {
+        "junctionName": "BTP102 - BMTC Junction, KH Road",
+        "count": 167
+      },
+      {
+        "junctionName": "BTP122 - Siddapura Junction",
+        "count": 146
+      }
+    ]
+  },
+  "Yelahanka": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 292,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 170,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 91,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 147,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 152,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 126,
+        "closureCount": 2
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 204,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 93,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 47,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 87,
+        "closureCount": 3
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 71,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 152,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 101,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 58,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 82,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 143,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 83,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 114,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 52,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 70,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 25,
+        "closureCount": 0
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "SCOOTER",
+        "count": 782
+      },
+      {
+        "vehicleType": "CAR",
+        "count": 547
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 450
+      },
+      {
+        "vehicleType": "MAXI-CAB",
+        "count": 251
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 140
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1473
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 982
+      },
+      {
+        "violationType": "DEFECTIVE NUMBER PLATE",
+        "count": 86
+      }
+    ],
+    "topJunctions": []
+  },
+  "Yeshwanthpura": {
+    "weeklyTimeSeries": [
+      {
+        "week": "2023-11-09",
+        "violationCount": 128,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-11-16",
+        "violationCount": 162,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-23",
+        "violationCount": 175,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-11-30",
+        "violationCount": 138,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-07",
+        "violationCount": 126,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-14",
+        "violationCount": 166,
+        "closureCount": 0
+      },
+      {
+        "week": "2023-12-21",
+        "violationCount": 103,
+        "closureCount": 1
+      },
+      {
+        "week": "2023-12-28",
+        "violationCount": 111,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-04",
+        "violationCount": 106,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-11",
+        "violationCount": 103,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-01-18",
+        "violationCount": 133,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-01-25",
+        "violationCount": 86,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-01",
+        "violationCount": 134,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-08",
+        "violationCount": 99,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-15",
+        "violationCount": 45,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-02-22",
+        "violationCount": 142,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-02-29",
+        "violationCount": 140,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-07",
+        "violationCount": 113,
+        "closureCount": 1
+      },
+      {
+        "week": "2024-03-14",
+        "violationCount": 80,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-21",
+        "violationCount": 187,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-03-28",
+        "violationCount": 85,
+        "closureCount": 0
+      },
+      {
+        "week": "2024-04-04",
+        "violationCount": 25,
+        "closureCount": 1
+      }
+    ],
+    "topVehicleTypes": [
+      {
+        "vehicleType": "CAR",
+        "count": 782
+      },
+      {
+        "vehicleType": "SCOOTER",
+        "count": 545
+      },
+      {
+        "vehicleType": "MOTOR CYCLE",
+        "count": 443
+      },
+      {
+        "vehicleType": "PASSENGER AUTO",
+        "count": 358
+      },
+      {
+        "vehicleType": "LGV",
+        "count": 147
+      }
+    ],
+    "topViolationTypes": [
+      {
+        "violationType": "WRONG PARKING",
+        "count": 1418
+      },
+      {
+        "violationType": "NO PARKING",
+        "count": 1218
+      },
+      {
+        "violationType": "PARKING IN A MAIN ROAD",
+        "count": 525
+      }
+    ],
+    "topJunctions": []
+  }
+}
