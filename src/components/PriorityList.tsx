@@ -44,9 +44,9 @@ function getPriorityTone(score: number) {
 function ScoreBar({ label, value }: ScoreBreakdownItem) {
   return (
     <div className="min-w-0">
-      <div className="mb-1 flex items-center justify-between gap-3 text-xs font-medium text-slate-500">
-        <span>{label}</span>
-        <span className="tabular-nums text-slate-700">{value.toFixed(1)}</span>
+      <div className="mb-1 grid grid-cols-[minmax(0,1fr)_3rem] items-center gap-2 text-xs font-medium text-slate-500">
+        <span className="truncate">{label}</span>
+        <span className="text-right tabular-nums text-slate-700">{value.toFixed(1)}</span>
       </div>
       <div className="h-1.5 overflow-hidden rounded-full bg-slate-100">
         <div
@@ -84,7 +84,7 @@ export default function PriorityList({
 
         return (
           <Link
-            className={`group grid gap-5 rounded-lg border bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-md md:grid-cols-[4rem_minmax(0,1fr)_8rem_minmax(17rem,22rem)] md:items-center ${
+            className={`group grid gap-5 rounded-lg border bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-md md:grid-cols-[3.5rem_minmax(0,1fr)_6.5rem] md:items-center xl:grid-cols-[4rem_minmax(0,1fr)_7.5rem_minmax(12rem,15rem)] ${
               isSelected
                 ? "border-slate-950 ring-2 ring-slate-950/10"
                 : "border-slate-200"
@@ -104,7 +104,7 @@ export default function PriorityList({
             </div>
 
             <div className="min-w-0">
-              <h2 className="truncate text-lg font-semibold text-slate-950">
+              <h2 className="text-lg font-semibold leading-snug text-slate-950">
                 {station.policeStation}
               </h2>
               <p className="mt-1 text-sm text-slate-500">
@@ -126,7 +126,7 @@ export default function PriorityList({
               </div>
             </div>
 
-            <div className="grid gap-3 sm:grid-cols-3 md:grid-cols-1">
+            <div className="min-w-0 grid gap-3 sm:grid-cols-3 xl:grid-cols-1">
               {breakdown.map((item) => (
                 <ScoreBar key={item.label} {...item} />
               ))}

@@ -4,14 +4,18 @@ import { readFileSync } from "node:fs";
 import path from "node:path";
 import type {
   HeatmapCell,
+  MethodologySummary,
   ModelMetrics,
+  SourceSummary,
   StationDetail,
   StationDetailIndex,
   StationRanking,
 } from "./types";
 export type {
   HeatmapCell,
+  MethodologySummary,
   ModelMetrics,
+  SourceSummary,
   StationDetail,
   StationDetailIndex,
   StationRanking,
@@ -52,4 +56,33 @@ export function getStationDetail(policeStation: string): StationDetail {
 
 export function getModelMetrics(): ModelMetrics {
   return readJsonFile<ModelMetrics>("model-metrics.json");
+}
+
+export function getSourceSummary(): SourceSummary {
+  return readJsonFile<SourceSummary>("source-summary.json");
+}
+
+export function getMethodologySummary(): MethodologySummary {
+  const stationRankings = getStationRankings();
+  const modelMetrics = getModelMetrics();
+  const sourceSummary = getSourceSummary();
+  const { train, validation, test } = modelMetrics.metrics.row_counts;
+
+  return {
+    stationCount: stationRankings.length,
+    parkingViolationRows: sourceSummary.parkingViolationRows,
+    trafficIncidentRows: sourceSummary.trafficIncidentRows,
+    priorityWeights: {
+      violationDensity: 40,
+      closureRisk: 40,
+      trend: 20,
+    },
+    modelRows: {
+      train,
+      validation,
+      test,
+      total: train + validation + test,
+    },
+    rocAuc: modelMetrics.metrics.roc_auc,
+  };
 }

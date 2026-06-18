@@ -67,6 +67,29 @@ export type ModelMetrics = {
   }[];
 };
 
+export type MethodologySummary = {
+  stationCount: number;
+  parkingViolationRows: number;
+  trafficIncidentRows: number;
+  priorityWeights: {
+    violationDensity: number;
+    closureRisk: number;
+    trend: number;
+  };
+  modelRows: {
+    train: number;
+    validation: number;
+    test: number;
+    total: number;
+  };
+  rocAuc: number;
+};
+
+export type SourceSummary = {
+  parkingViolationRows: number;
+  trafficIncidentRows: number;
+};
+
 export type StationCoordinate = {
   policeStation: string;
   lat: number;

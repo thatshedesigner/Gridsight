@@ -45,7 +45,7 @@ function getHeatColor(value: number, max: number) {
     return "#f59e0b";
   }
 
-  return "#2563eb";
+  return "#059669";
 }
 
 function MapSelectionSync({
@@ -109,6 +109,22 @@ export default function HotspotMap({
 
   const maxHeatCount = visibleHeatCells[0]?.count ?? 0;
 
+  if (rankings.length === 0 || stationMarkers.length === 0) {
+    return (
+      <section className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
+        <div className="border-b border-slate-200 px-5 py-4">
+          <h2 className="text-base font-semibold text-slate-950">Violation hotspots</h2>
+          <p className="mt-1 text-sm text-slate-500">
+            Map data will appear when station rankings and coordinates are available.
+          </p>
+        </div>
+        <div className="flex h-[22rem] items-center justify-center px-6 text-center text-sm leading-6 text-slate-500 sm:h-[30rem]">
+          No mapped station data is available.
+        </div>
+      </section>
+    );
+  }
+
   return (
     <section className="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">
       <div className="border-b border-slate-200 px-5 py-4">
@@ -117,7 +133,7 @@ export default function HotspotMap({
           Dense cells show violation concentration; station markers follow priority tiers.
         </p>
       </div>
-      <div className="h-[32rem]">
+      <div className="h-[22rem] sm:h-[30rem] lg:h-[calc(100vh-12rem)] lg:min-h-[30rem]">
         <MapContainer
           center={bengaluruCenter}
           className="h-full w-full"

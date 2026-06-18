@@ -8,8 +8,8 @@ import type { HeatmapCell, StationCoordinate, StationRanking } from "@/lib/types
 const HotspotMap = dynamic(() => import("@/components/HotspotMap"), {
   ssr: false,
   loading: () => (
-    <div className="flex h-[32rem] items-center justify-center rounded-lg border border-slate-200 bg-white text-sm text-slate-500">
-      Map loading
+    <div className="flex h-[22rem] items-center justify-center rounded-lg border border-slate-200 bg-white text-sm text-slate-500 shadow-sm sm:h-[30rem] lg:h-[calc(100vh-12rem)] lg:min-h-[30rem]">
+      Loading map
     </div>
   ),
 });
@@ -30,7 +30,7 @@ export default function DashboardClient({
   );
 
   return (
-    <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_26rem] lg:items-start">
+    <div className="grid min-w-0 gap-6 lg:grid-cols-[minmax(0,1fr)_26rem] lg:items-start">
       <div className="order-2 lg:order-1">
         <PriorityList
           rankings={rankings}
@@ -38,7 +38,7 @@ export default function DashboardClient({
           onSelectStation={setSelectedStation}
         />
       </div>
-      <aside className="order-1 lg:sticky lg:top-6 lg:order-2">
+      <aside className="order-1 min-w-0 lg:sticky lg:top-20 lg:order-2">
         <HotspotMap
           heatmapGrid={heatmapGrid}
           rankings={rankings}
